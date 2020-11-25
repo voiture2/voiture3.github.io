@@ -1,0 +1,12 @@
+body{
+
+	background-repeat: no-repeat;
+	background-image: url(track.jpg);
+	background-size: 370%
+}
+p{
+	color: white;
+}
+h1{
+	color: pink;
+}
